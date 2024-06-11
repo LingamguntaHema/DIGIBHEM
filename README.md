@@ -15,8 +15,9 @@ Width of the petals.
     Data Loading and Preprocessing Load the Iris dataset using scikit-learn. Split the data into training and testing sets. Standardize the features to improve algorithm performance.
     Model Training k-Nearest Neighbors (k-NN): Train a k-NN classifier with k=5. Decision Tree: Train a Decision Tree classifier with default parameters.
     Model Evaluation Calculate accuracy, precision, and recall metrics. Generate confusion matrices and classification reports for detailed model evaluation.
-    Data Visualization Create confusion matrix heatmaps for both classifiers. Visualize feature distributions and relationships using pair plots. 📈 Results Both the k-NN and Decision Tree classifiers achieved perfect accuracy on the test set, demonstrating their effectiveness on the Iris dataset. Detailed evaluation metrics and visualizations provide further insights into model performance.
-
+    Data Visualization Create confusion matrix heatmaps for both classifiers. Visualize feature distributions and relationships using pair plots.
+    
+📈 Results Both the k-NN and Decision Tree classifiers achieved perfect accuracy on the test set, demonstrating their effectiveness on the Iris dataset. Detailed evaluation metrics and visualizations provide further insights into model performance.
 📊 Visualizations Confusion Matrices Confusion Matrix for k-Nearest Neighbors
 Confusion Matrix for Decision Tree
 Feature Distributions Pair Plot of Iris Dataset Features
